@@ -8,7 +8,7 @@ A series of command line projects using concepts learned in the first week of th
 * Mad Lib: user enters in parts of speech that the program prompts them and the program writes to the console a funny story based on their inputs. User inputs are capitalized.
 * Get Average: user enters in a series of numbers and the program writes to the console the average of the numbers.
 
-## Technology and Language Used
+## IDE and Language Used
 * [C#](https://docs.microsoft.com/en-us/dotnet/welcome)
 * [Visual Studio 2017](https://visualstudio.microsoft.com/vs/whatsnew/)
 
